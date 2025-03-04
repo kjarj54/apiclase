@@ -2,10 +2,18 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace apiclase.Controllers;
 
-public class UsuariosController: Controller{
+[ApiController]
+[Route("[controller]")]
+public class UsuariosController : Controller
+{
     [HttpPost]
-    public IActionResult validarUsuario([FromBody] Usuarios usuarios){
-        return Ok(usuarios);
+    public IActionResult validarUsuario([FromBody] Usuarios usuarios)
+    {
+        if (usuarios.email == "" && usuarios.password == "1234"){
+            return Ok("Usuario correcto");
+        }else{
+            return BadRequest("Usuario incorrecto");
+        }
     }
-    
+
 }

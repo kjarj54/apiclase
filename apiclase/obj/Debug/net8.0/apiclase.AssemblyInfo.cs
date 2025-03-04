@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiclase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd882354850b155d3764aa6b4b15315290ad382")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiclase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiclase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,3 +33,4 @@ C:\Users\kevin\Documentos\carpetaU\PrimerSemestre2025\moviles\Clase2\apiclase\ap
 C:\Users\kevin\Documentos\carpetaU\PrimerSemestre2025\moviles\Clase2\apiclase\apiclase\obj\Debug\net8.0\apiclase.pdb
 C:\Users\kevin\Documentos\carpetaU\PrimerSemestre2025\moviles\Clase2\apiclase\apiclase\obj\Debug\net8.0\apiclase.genruntimeconfig.cache
 C:\Users\kevin\Documentos\carpetaU\PrimerSemestre2025\moviles\Clase2\apiclase\apiclase\obj\Debug\net8.0\ref\apiclase.dll
+C:\Users\kevin\Documentos\carpetaU\PrimerSemestre2025\moviles\Clase2\apiclase\apiclase\obj\Debug\net8.0\apiclase.sourcelink.json
